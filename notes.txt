@@ -1,0 +1,72 @@
+password : H8b3iKY10Khdcbaf
+
+
+mongodb+srv://usermoulip:H8b3iKY10Khdcbaf@cluster0.lbdoqhr.mongodb.net/Cluster0?retryWrites=true&w=majority
+
+
+https://api.pujakaitem.com/api/products
+
+
+[
+    {
+    "name": "iphone",
+    "company": "apple",
+    "price": 6000000,
+    "featured": true
+    },
+    {
+    "name": "samsung s20",
+    "company": "samsung",
+    "price": 5000000
+    },
+    {
+    "name": "Dell Series",
+    "company": "dell",
+    "price": 600000
+    },
+    {
+    "name": "Nokia 420",
+    "company": "mi",
+    "price": 12599
+    },
+    {
+    "name": "Mac Pc",
+    "company": "apple",
+    "price": 4000099
+    },
+    {
+    "name": "Macbook Pro",
+    "company": "apple",
+    "price": 42999
+    },
+    {
+    "name": "Asus gseries",
+    "company": "dell",
+    "price": 23999
+    },
+    {
+    "name": "Accessories",
+    "price": 1099999,
+    "company": "dell"
+    },
+    {
+    "name": "Iwatch",
+    "price": 39999,
+    "company": "apple"
+    },
+    {
+    "name": "user need",
+    "company": "apple",
+    "price": 300099
+    },
+    {
+    "name": "rolex premium",
+    "company": "samsung",
+    "price": 999999
+    },
+    {
+    "name": "galaxy w20",
+    "price": 311999,
+    "company": "samsung"
+    }
+    ]
